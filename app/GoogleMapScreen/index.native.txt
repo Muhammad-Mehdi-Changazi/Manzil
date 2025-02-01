@@ -1,8 +1,4 @@
-
-SCREEN FOR NAVIGATION (Google Maps)
-
-
-
+// app/GoogleMapScreen.native.tsx
 import React, { useEffect, useState } from 'react';
 import {
   View,
